@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MANIT Attendance</string>
+    <string name="start_activity_register">Need a new account?</string>
+
+    <string name="register_activity_scholar_number">Scholar Number</string>
+    <string name="register_activity_email">Email</string>
+    <string name="register_activity_password">Password</string>
+    <string name="register_activity_register_btn">Create Account</string>
+
+    <string name="main_menu_log_out">Log Out</string>
+    <string name="main_menu_account_settings">Account Settings</string>
+    <string name="welcome_screen_text">Welcome to MANIT Attendance</string>
+
+    <string name="activity_register_create_a_new_account">Create a New Account</string>
+    <string name="activity_login_login_to_your_account">Login to your account!</string>
+
+    <string name="confirm">CONFIRM</string>
+
+    <string name="login">Login</string>
+    <string name="scholar_number">Scholar Number</string>
+    <string name="attendece_not_started">Attendece not yet started</string>
+    <string name="download_latest_version">Download Directly</string>
+    <string name="latest_version">Oops! This version of app is no longer supported.\nPlease download the latest version.
+    \n\nIf the installer doesn\'t starts automatically, please go to storage/downloads/ in your phone and install ManitAttendance.apk</string>
+    <string name="full_name">Full Name</string>
+    <string name="register_reenter_password">Confirm Password</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="download_from_google_dirve">Download from google dirve</string>
+    <string name="change_password">change password</string>
+    <string name="change_email">Change Email</string>
+</resources>

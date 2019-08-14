@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "960195124260",
+    "firebase_url": "https://manitattendence.firebaseio.com",
+    "project_id": "manitattendence",
+    "storage_bucket": "manitattendence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960195124260:android:53959edde5a193ad",
+        "android_client_info": {
+          "package_name": "com.digitalnitb.manitattendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960195124260-oko0d22n46gi2eq8q9nm506839bsfb5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalnitb.manitattendence",
+            "certificate_hash": "88f10d012d5067d38d19d2b7d22cfd01432ec849"
+          }
+        },
+        {
+          "client_id": "960195124260-th0gae4p0md8t2dia45g6kagt140vuef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgY2LV-DfV0G3bkQO0Bzqz6MEU-86Jl9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960195124260-th0gae4p0md8t2dia45g6kagt140vuef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
