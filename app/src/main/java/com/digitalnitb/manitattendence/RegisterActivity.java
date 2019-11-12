@@ -147,10 +147,11 @@ public class RegisterActivity extends AppCompatActivity {
             displayToast("Invalid Scholar Number.");
             return false;
         }
-        if(year.equals("")){
+        if(year.equals("")) {
             displayToast("Currently we only support first year scholar number");
             return false;
         }
+
         mDbReference = mDatabase.getReference().child("Scholar_Numbers").child(branch).child(year).child(scholar_number);
 
         return true;

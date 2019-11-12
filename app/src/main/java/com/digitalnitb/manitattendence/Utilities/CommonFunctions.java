@@ -51,6 +51,8 @@ public class CommonFunctions {
 
     public static String getBranch(String scholar_number) {
         String verify = scholar_number.substring(3, 5);
+        if(scholar_number.substring(2,4).equals("212"))
+            return "MCA";
         if (!verify.equals("11")) {
             return "";
         }
